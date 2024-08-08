@@ -1,0 +1,2135 @@
+[
+    {
+        "name": "Fumasep FAS-PET-75",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fas-pet-75?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "70 - 80 \u00b5m (microns)",
+            "Appearance / Color": "Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PET",
+            "Counter Ion": "Bromide (Br-)",
+            "Density": "8.0 - 9.0 mg\u2022cm-2",
+            "Specific Area Resistance": "1.2 - 2.0 \u2126\u2022cm2",
+            "Specific Conductivity": "4.5 - 6.5 (in Cl- form) mS\u2022cm-1",
+            "Selectivity": "94 - 97 %",
+            "Proton Transfer Rate": "1200 - 1900 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.2 - 1.4 meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "15 - 25 wt %",
+            "Non-Std Modulus": "1600 - 2100 MPa",
+            "Tensile Strength - max.": "50 - 60 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "25 - 30 MPa",
+            "Elongation to Break": "15 - 25 %",
+            "pH Stability Range at 25\u00b0C": "0 - 8 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Nafion\u2122 Tubing",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/nafion-tubing?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Fumasep FAS-PET-130",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fas-pet?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "110 - 130 \u00b5m (microns)",
+            "Appearance / Color": "Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PET",
+            "Counter Ion": "Bromide (Br-)",
+            "Density": "10.5 - 12.0 mg\u2022cm-2",
+            "Specific Area Resistance": "1.7 - 3.0 (in Cl- form) \u2126\u2022cm2",
+            "Specific Conductivity": "4.0 - 6.0 (in Cl- form) mS\u2022cm-1",
+            "Selectivity": "94 - 97 %",
+            "Proton Transfer Rate": "900 - 1500 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.0 - 1.3 (in Cl- form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 %",
+            "Uptake in H2O at 25\u00b0C": "13 - 23 wt %",
+            "Non-Std Modulus": "1300 - 1900 MPa",
+            "Tensile Strength - max.": "55 - 80 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "18 - 26 MPa",
+            "Elongation to Break": "20 - 30 %",
+            "pH Stability Range at 25\u00b0C": "0 - 8 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FKS-PET-130",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fks-pet-130?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "110 - 130 \u00b5m (microns)",
+            "Appearance / Color": "White",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PET Foil",
+            "Counter Ion": "H-form",
+            "Density": "8.5 - 10.5 mg\u2022cm-2",
+            "Specific Area Resistance": "2.6 - 4.6 (in Na+ form) \u2126\u2022cm2",
+            "Specific Conductivity": "2.5 - 4.5 (in Na+ form) mS\u2022cm-1",
+            "Selectivity": "96 - 99 %",
+            "Hydroxyl Transfer Rate": "10 - 30 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "0.75 - 0.85 (in Na+ form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 1 %",
+            "Uptake in H2O at 25\u00b0C": "15 - 25 wt %",
+            "Non-Std Modulus": "1300 - 1900 MPa",
+            "Tensile Strength - max.": "60 - 80 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "20 - 25 MPa",
+            "Elongation to Break": "20 - 40 %",
+            "pH Stability Range at 25\u00b0C": "0 - 8 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar",
+            "Residual Solvent / Additive Content": "< 15 %"
+        }
+    },
+    {
+        "name": "Fumasep FAB-PK-130",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fab?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "110 - 140 \u00b5m (microns)",
+            "Appearance / Color": "Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PK",
+            "Counter Ion": "Bromide (Br-)",
+            "Density": "10 - 13 mg\u2022cm-2",
+            "Specific Area Resistance": "5.0 - 9.0 in Cl- form and 10 - 20 in SO42- form \u2126\u2022cm2",
+            "Specific Conductivity": "1.0 - 2.5 in Cl- form and 10 - 20 in SO42- form mS\u2022cm-1",
+            "Selectivity": "93 - 98 %",
+            "Proton Transfer Rate": "60 - 400 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "0.7 - 1.0 (in Cl- form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 1 %",
+            "Uptake in H2O at 25\u00b0C": "5 - 15 wt %",
+            "Non-Std Modulus": "1000 - 1800 MPa",
+            "Tensile Strength - max.": "40 - 80 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "20 - 30 MPa",
+            "Elongation to Break": "15 - 40 %",
+            "pH Stability Range at 25\u00b0C": "0 - 14 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FKB-PK-130",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fkb?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "110 - 140 \u00b5m (microns)",
+            "Appearance / Color": "Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PK",
+            "Counter Ion": "Protonic form (H+)",
+            "Density": "10 - 13 mg\u2022cm-2",
+            "Specific Area Resistance": "2.5 - 5.0 (in Na+ form) \u2126\u2022cm2",
+            "Specific Conductivity": "2 - 8 (in Na+ form) mS\u2022cm-1",
+            "Selectivity": "96 - 99 %",
+            "Hydroxyl Transfer Rate": "5 - 100 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "0.8 - 1.0 (in Na+ form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "10 - 30 wt %",
+            "Non-Std Modulus": "1000 - 2000 MPa",
+            "Tensile Strength - max.": "50 - 80 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "15 - 30 MPa",
+            "Elongation to Break": "20 - 50 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FKL-PK-130",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fkl?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "110 - 140 \u00b5m (microns)",
+            "Appearance / Color": "Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PK",
+            "Counter Ion": "Protonic form (H+)",
+            "Density": "10 - 13 mg\u2022cm-2",
+            "Specific Area Resistance": "3 - 10 (in Na+ form) \u2126\u2022cm2",
+            "Specific Conductivity": "1 - 4 (in Na+ form) mS\u2022cm-1",
+            "Selectivity": "96 - 99 %",
+            "Hydroxyl Transfer Rate": "5 - 50 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "0.6 - 0.8 (in Na+ form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "10 - 25 wt %",
+            "Non-Std Modulus": "1000 - 2000 MPa",
+            "Tensile Strength - max.": "50 - 80 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "20 - 30 MPa",
+            "Elongation to Break": "20 - 50 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FBM - Bipolar Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fbm?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Bipolar",
+            "Thickness": "130 - 160 \u00b5m (microns)",
+            "Appearance / Color": "Brown / Translucent",
+            "Backing Foil": "None",
+            "Delivery Form": "Wet in NaCl solution",
+            "Reinforcement": "PK",
+            "Counter Ion": "Na (CEM layer ) / Cl (AEM layer)",
+            "Density": "15 - 17 mg\u2022cm-2",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 %",
+            "Max Temperature": "40 \u00b0C",
+            "Water Splitting Efficiency at 100mA cm-2": "> 98 %",
+            "Water Splitting Voltage at 100mA cm-2": "< 1.2 V"
+        }
+    },
+    {
+        "name": "Fumasep FKS-30",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fks-30?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "21 - 26 \u00b5m (microns)",
+            "Appearance / Color": "Slightly Brown",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "H-form",
+            "Density": "4.0 - 4.2 mg\u2022cm-2",
+            "Specific Area Resistance": "0.84 (in Na+ form) \u2126\u2022cm2",
+            "Specific Conductivity": "3.9 (in Na+ form) mS\u2022cm-1",
+            "Selectivity": "99 %",
+            "Hydroxyl Transfer Rate": "120 - 130 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.43 (in Na+ form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 %",
+            "Uptake in H2O at 25\u00b0C": "22 wt %",
+            "Non-Std Modulus": "2030 - 2480 MPa",
+            "Tensile Strength - max.": "46 - 66 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "46 - 60 MPa",
+            "Elongation to Break": "128 - 190 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FAS-30",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fas-30?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "25 - 35 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Brown",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "Bromide (Br-)",
+            "Density": "3.5 - 4.4 mg\u2022cm-2",
+            "Specific Area Resistance": "0.3 - 0.6 (in Cl- form) \u2126\u2022cm2",
+            "Specific Conductivity": "3.0 - 7.0 (in Cl- form) mS\u2022cm-1",
+            "Selectivity": "92 - 96 %",
+            "Proton Transfer Rate": "3000 - 4000 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.6 - 2.0 meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "15 - 30 wt %",
+            "Non-Std Modulus": "1200 - 1700 MPa",
+            "Tensile Strength - max.": "20 - 40 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "25 - 40 MPa",
+            "Elongation to Break": "30 - 60 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 2.5 bar"
+        }
+    },
+    {
+        "name": "Fumasep FKS-50",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fks?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "45 - 55 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Brown",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry (non-activated)",
+            "Reinforcement": "None",
+            "Counter Ion": "H-form",
+            "Density": "7.5 - 8.3 mg\u2022cm-2",
+            "Specific Area Resistance": "1.8 - 2.5 (in Na+ form) \u2126\u2022cm2",
+            "Specific Conductivity": "2.0 - 3.0 (in Na+ form) mS\u2022cm-1",
+            "Selectivity": "97 - 99 %",
+            "Ion Exchange Capacity": "1.2 - 1.4 (in Na+ form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "10 - 20 wt %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 2.5 bar"
+        }
+    },
+    {
+        "name": "Fumasep FAS-50",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fas-50?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "45 - 55 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Brown",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "Bromide (Br-)",
+            "Density": "6.0 - 8.5 mg\u2022cm-2",
+            "Specific Area Resistance": "0.6 - 1.5 (in Cl- form) \u2126\u2022cm2",
+            "Specific Conductivity": "3 - 8 (in Cl- form) mS\u2022cm-1",
+            "Selectivity": "92 - 96 %",
+            "Proton Transfer Rate": "1000 - 3000 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.6 - 2.0 (in Cl- form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 1 %",
+            "Uptake in H2O at 25\u00b0C": "10 - 25 wt %",
+            "Non-Std Modulus": "1000 - 1800 MPa",
+            "Tensile Strength - max.": "30 - 40 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "30 - 40 MPa",
+            "Elongation to Break": "15 - 60 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 2.5 bar"
+        }
+    },
+    {
+        "name": "Porex PM21M",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/porex-pm21m?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "130 microns (5.1 mil)",
+            "Max Temperature": "260\u00b0C (500\u00b0F)",
+            "Water Intrusion Pressure": "350 mb",
+            "Airflow ml/min/cm2 @ 70mb": "1500",
+            "Filtration >99.99%": "0.5 microns",
+            "Salt Fog": "No pen."
+        }
+    },
+    {
+        "name": "Fumasep FKE-50",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fke?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "45 - 55 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Brown",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry (non-activated)",
+            "Reinforcement": "None",
+            "Counter Ion": "H-form",
+            "Density": "7.5 - 8.5 mg\u2022cm-2",
+            "Specific Area Resistance": "1.5 - 2.3 (in Na+ form) \u2126\u2022cm2",
+            "Specific Conductivity": "2.5 - 3.5 (in Na+ form) mS\u2022cm-1",
+            "Selectivity": "97 - 99 %",
+            "Hydroxyl Transfer Rate": "200 - 500 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.4 - 1.5 (in Na+ form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "15 - 35 wt %",
+            "Non-Std Modulus": "1500 - 2500 MPa",
+            "Tensile Strength - max.": "50 - 80 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "40 - 60 MPa",
+            "Elongation to Break": "50 - 250 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 2.5 bar"
+        }
+    },
+    {
+        "name": "Fumasep FAD-PET-75",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fad?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "60 - 80 \u00b5m (microns)",
+            "Appearance / Color": "Light-Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Wet",
+            "Reinforcement": "PET",
+            "Counter Ion": "Chloride Form (Cl-)",
+            "Density": "7.0 - 8.5 mg\u2022cm-2",
+            "Specific Area Resistance": "0.25 - 0.50 (in Cl- form) \u2126\u2022cm2",
+            "Specific Conductivity": "15 - 25 (in Cl- form) mS\u2022cm-1",
+            "Selectivity": "91 - 95 %",
+            "Proton Transfer Rate": "2000 - 5000 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "2.0 - 2.3 (in Cl- form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "20 - 30 wt %",
+            "Non-Std Modulus": "1200 - 2000 MPa",
+            "Tensile Strength - max.": "40 - 70 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "15 - 25 MPa",
+            "Elongation to Break": "15 - 50 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FAD-55",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fad-55?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "50 - 60 \u00b5m (microns)",
+            "Appearance / Color": "Light Brown",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "Bromide (Br-)",
+            "Specific Area Resistance": "0.20 - 0.25 (in Cl- form) \u2126\u2022cm2",
+            "Specific Conductivity": "25 - 30 (in Cl- form) mS\u2022cm-1",
+            "Selectivity": "85 %",
+            "Proton Transfer Rate": "8000 - 10000 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "2.0 - 2.5 (in Cl- form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "4 - 8 %",
+            "Uptake in H2O at 25\u00b0C": "58 wt %",
+            "Non-Std Modulus": "700 - 900 MPa",
+            "Tensile Strength - max.": "24 - 26 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "24 - 26 MPa",
+            "Elongation to Break": "> 10 %",
+            "Bubble Point Test in Water at 25\u00b0C": "2.5 bar"
+        }
+    },
+    {
+        "name": "Fumasep FKD-PK-75",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fkd-pk-75?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "70 - 80 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Wet (2 wt% NaCl solution)",
+            "Reinforcement": "PEEK (PK)",
+            "Counter Ion": "Sodium Form (Na+)",
+            "Density": "9 - 10 mg\u2022cm-2",
+            "Specific Area Resistance": "1.5 - 2.0 (in Na+ form) \u2126\u2022cm2",
+            "Specific Conductivity": "4 - 5 (in Na+ form) mS\u2022cm-1",
+            "Selectivity": "96 - 99 %",
+            "Hydroxyl Transfer Rate": "300 - 600 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.4 - 1.6 (in Na+ form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 1 %",
+            "Uptake in H2O at 25\u00b0C": "20 - 30 wt %",
+            "Non-Std Modulus": "2000 - 2500 MPa",
+            "Tensile Strength - max.": "> 50 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "30 - 40 MPa",
+            "Elongation to Break": "> 15 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 2.5 bar",
+            "Residual Solvent / Additive Content": "< 3 %"
+        }
+    },
+    {
+        "name": "Fumasep FAA-3-50",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faa-3-50?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "45 - 55 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Brown",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "Bromide (Br-)",
+            "Density": "6.0 - 8.5 mg\u2022cm-2",
+            "Specific Area Resistance": "0.6 - 1.5 (in Cl- form) \u2126\u2022cm2",
+            "Specific Conductivity": "3 - 8 (in Cl- form) mS\u2022cm-1",
+            "Selectivity": "92 - 96 %",
+            "Proton Transfer Rate": "1000 - 3000 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.6 - 2.1 (in Cl- form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "10 - 25 wt %",
+            "Non-Std Modulus": "1000 - 1800 MPa",
+            "Tensile Strength - max.": "25 - 40 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "25 - 40 MPa",
+            "Elongation to Break": "15 - 60 %",
+            "pH Stability Range at 25\u00b0C": "0 - 14 pH",
+            "Residual Solvent / Additive Content": "< 15 %"
+        }
+    },
+    {
+        "name": "Fumasep FAA-3-PK-75",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faa-3-pk-75?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "70 - 80 \u00b5m (microns)",
+            "Appearance / Color": "Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PK",
+            "Counter Ion": "Bromide (Br-)",
+            "Density": "7.0 - 9.0 mg\u2022cm-2",
+            "Specific Area Resistance": "1.2 - 2.0 (in Cl- form) \u2126\u2022cm2",
+            "Specific Conductivity": "4.5 - 6.5 (in Cl- form) mS\u2022cm-1",
+            "Selectivity": "94 - 97 %",
+            "Proton Transfer Rate": "500 - 1500 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.2 - 1.4 (in Cl- form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "10 - 20 wt %",
+            "Non-Std Modulus": "1200 - 2300 MPa",
+            "Tensile Strength - max.": "30 - 60 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "20 - 40 MPa",
+            "Elongation to Break": "10 - 30 %",
+            "pH Stability Range at 25\u00b0C": "0 - 14 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 2 bar"
+        }
+    },
+    {
+        "name": "Fumasep FAA-3-PK-130",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faa-3-pk-130?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "110 - 130 \u00b5m (microns)",
+            "Appearance / Color": "Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PK",
+            "Counter Ion": "Bromide (Br-)",
+            "Density": "10 - 13 mg\u2022cm-2",
+            "Specific Area Resistance": "1.8 - 4.0 (in Cl- form) \u2126\u2022cm2",
+            "Specific Conductivity": "4.0 - 8.0 (in Cl- form) mS\u2022cm-1",
+            "Selectivity": "93 - 98 %",
+            "Proton Transfer Rate": "800 - 2500 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.1 - 1.4 (in Cl- form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 2 %",
+            "Uptake in H2O at 25\u00b0C": "10 - 25 wt %",
+            "Non-Std Modulus": "1000 - 1800 MPa",
+            "Tensile Strength - max.": "40 - 80 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "20 - 30 MPa",
+            "Elongation to Break": "15 - 40 %",
+            "pH Stability Range at 25\u00b0C": "0 - 14 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumapem F-1030",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-f-1030?limit=100",
+        "stock": false,
+        "spec": {
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "H+ Form",
+            "Selectivity": "> 98 %",
+            "Proton Transfer Rate": "> 7000 \u00b5mol\u2022min-1\u2022cm-2",
+            "Tensile Strength - max.": "35 - 46 MPa",
+            "Elongation to Break": "80 - 150 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumapem F-1050",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-f-1050?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Fumapem F\u2010930",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-f-930?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "28 \u2013 33 \u00b5m (microns)",
+            "Appearance / Color": "Transparent",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "H-form",
+            "Selectivity": "> 90 % (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Proton Transfer Rate": "> 10,000 \u00b5mol\u2022min-1\u2022cm-2",
+            "Non-Std Modulus": "200 - 250  MPa",
+            "Tensile Strength - max.": "20 - 30 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "10 - 15  MPa",
+            "Elongation to Break": "125 - 160 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 2 bar"
+        }
+    },
+    {
+        "name": "Fumapem F-950",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-f-950?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "44 - 49 \u00b5m (microns)",
+            "Appearance / Color": "Transparent",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "H-form",
+            "Selectivity": "93 - 94 % (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Proton Transfer Rate": "> 10,000 \u00b5mol\u2022min-1\u2022cm-2",
+            "Dimensional Swelling in H2O at 25\u00b0C": "12 - 14 % ( 2 M H2SO4 at T = 25 \u00b0C)",
+            "Non-Std Modulus": "500 - 550 MPa",
+            "Tensile Strength - max.": "30 - 35 MPa",
+            "Elongation to Break": "125 - 160 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep F-10120",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-f-10120?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "114 - 124 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colorless",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "H-form",
+            "Density": "2.4 mg\u2022cm-2",
+            "Selectivity": "93 - 94 %",
+            "Proton Transfer Rate": "6910 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "0.88 - 0.91 meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "13 - 14 %",
+            "Uptake in H2O at 25\u00b0C": "24 wt %",
+            "Non-Std Modulus": "205 - 218 MPa",
+            "Tensile Strength - max.": "27 - 31 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "9 MPa",
+            "Elongation to Break": "235 - 277 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumapem F-14100",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-f-14100?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "100 - 200 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colorless",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "H-form",
+            "Equivalent Weight": "1400 g/eq ",
+            "Specific Area Resistance": "0.2 - 0.3 (in H2O at 25\u00b0C in H-form) \u2126\u2022cm2",
+            "Specific Conductivity": "60 - 70 (in H2O at 25\u00b0C in H-form) mS\u2022cm-1",
+            "Selectivity": "> 96 %",
+            "Ion Exchange Capacity": "0.6 - 0.8 meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "4 - 6 (in H2O at 25\u00b0C in H-form) %",
+            "Uptake in H2O at 25\u00b0C": "15 - 25 (in H2O at 25\u00b0C in H-form) wt %",
+            "Non-Std Modulus": "250 - 400 MPa",
+            "Tensile Strength - max.": "20 - 40 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "10 - 20 MPa",
+            "Elongation to Break": "> 300 %",
+            "pH Stability Range at 25\u00b0C": "0 - 10 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 4 bar"
+        }
+    },
+    {
+        "name": "Fumasep F-1075-PK",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-f-1075-pk?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "70 - 80 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colorless",
+            "Backing Foil": "Between Paper",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PK",
+            "Counter Ion": "H-form",
+            "Density": "13 - 14 mg\u2022cm-2",
+            "Specific Area Resistance": "0.15 (in 0.5 M H2SO4) \u2126\u2022cm2",
+            "Specific Conductivity": "0.5 - 0.6 (in 0.5 M H2SO4) mS\u2022cm-1",
+            "Selectivity": "> 97 %",
+            "Proton Transfer Rate": "> 8000 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "0.8 - 0.9 meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 in 2M H2SO4 and 0 in vanadyl sulfate %",
+            "Uptake in H2O at 25\u00b0C": "10 - 15 in 2M H2SO4 and 7 - 10 in vanadyl sulfate wt %",
+            "Non-Std Modulus": "400 - 450 MPa",
+            "Tensile Strength - max.": "40 - 45 MPa",
+            "Elongation to Break": "> 30 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep F-10120-PK",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-f-10120-pk?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "120 - 135 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colorless",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry (non-activated)",
+            "Reinforcement": "PK",
+            "Counter Ion": "H-form",
+            "Density": "25 mg\u2022cm-2",
+            "Specific Area Resistance": "0.33 in 0.5 M H2SO4 and 0.98 in 0.5 M H2SO4 + 0.4 M VOSO4 \u2126\u2022cm2",
+            "Specific Conductivity": "54.4 in 0.5 M H2SO4 and 18.1 in 0.5 M H2SO4 + 0.4 M VOSO4 mS\u2022cm-1",
+            "Selectivity": "95 %",
+            "Ion Exchange Capacity": "0.79 meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "4 in 2M H2SO4 and 2 in vanadyl sulfate %",
+            "Uptake in H2O at 25\u00b0C": "13 in 2M H2SO4 and 10 in vanadyl sulfate wt %",
+            "Non-Std Modulus": "660 - 830 MPa",
+            "Tensile Strength - max.": "35 - 36 MPa",
+            "Elongation to Break": "38 - 42 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae D72-25BS",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-d72-25bs-72800000?limit=100",
+        "stock": true,
+        "spec": {
+            "Appearance": "Off-white",
+            "Form": "Liquid",
+            "Density": "1.15 g/cm3 (at 20 deg Celsius, ASTM D1475)",
+            "Equivalent Weight": "700 to 740 g/eq (Internal Method)",
+            "Polymer Concentration": "25 wt%",
+            "Solvent System": ">99% water, free of ethers %",
+            "Total Acid Capacity": "1.35 to 1.43 meq/g (Internal Method)",
+            "Viscosity": "<25 mPa.s (ASTM D2196)",
+            "HSE/Transport Classification": "Corrosive",
+            "Flammability at ambient conditions": "Non flammable"
+        }
+    },
+    {
+        "name": "Fumasep F-10150-PF",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-f-10150-pf?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "140 - 150 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colorless",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry (non-activated)",
+            "Reinforcement": "PFA",
+            "Counter Ion": "H-form",
+            "Density": "25 - 30 mg\u2022cm-2",
+            "Specific Area Resistance": "1.8 - 2.9 (Na+  form) \u2126\u2022cm2",
+            "Specific Conductivity": "6 - 9 (Na+  form) mS\u2022cm-1",
+            "Selectivity": "94 - 98 %",
+            "Hydroxyl Transfer Rate": "250 - 400 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "0.7 - 0.9 meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "8 - 12 (in H-form) %",
+            "Uptake in H2O at 25\u00b0C": "15 - 25 (in H-form) wt %",
+            "Non-Std Modulus": "400 - 700 MPa",
+            "Tensile Strength - max.": "15 - 20 MPa",
+            "Elongation to Break": "20 - 50 %",
+            "pH Stability Range at 25\u00b0C": "0 - 14 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae D79-25BS",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-d79-25bs-72800004?limit=100",
+        "stock": false,
+        "spec": {
+            "Appearance": "Off-white",
+            "Form": "Liquid",
+            "Density": "1.15 g/cm3 (at 20 deg Celsius, ASTM D1475)",
+            "Equivalent Weight": "790 to 810 g/eq (Internal Method)",
+            "Polymer Concentration": "25 wt%",
+            "Solvent System": ">99% water, free of ethers %",
+            "Total Acid Capacity": "1.23 to 1.30 meq/g (Internal Method)",
+            "Viscosity": "<25 mPa.s (ASTM D2196)",
+            "HSE/Transport Classification": "Corrosive",
+            "Flammability at ambient conditions": "Non flammable"
+        }
+    },
+    {
+        "name": "Fumasep FAP-450",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fap?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "45 - 55 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colorless",
+            "Backing Foil": "Between Paper",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "None",
+            "Density": "7.5 - 8.5 mg\u2022cm-2",
+            "Specific Area Resistance": "0.45 - 0.60 (in 0.5 M H2SO4) \u2126\u2022cm2",
+            "Specific Conductivity": "9 - 12 (in 0.5 M H2SO4) mS\u2022cm-1",
+            "Selectivity": "90 - 96 %",
+            "Proton Transfer Rate": "2500 - 4500 \u00b5mol\u2022min-1\u2022cm-2",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0% - 2% in 2 M H2SO4 at 25\u00b0C and 10% - 12% in vanadyl sulfate at 25\u00b0C %",
+            "Uptake in H2O at 25\u00b0C": "15% - 25% in 2 M H2SO4 at 25\u00b0C and 12% - 18% in vanadyl sulfate at 25\u00b0C wt %",
+            "Non-Std Modulus": "900 - 1200 MPa",
+            "Tensile Strength - max.": "40 - 60 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "24 - 30 MPa",
+            "Elongation to Break": "> 250 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 4 bar"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae D83-24B",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-d83-24b-72800008?limit=100",
+        "stock": false,
+        "spec": {
+            "Appearance": "Off-white",
+            "Form": "Liquid",
+            "Density": "1.15 g/cm3 (at 20 deg Celsius, ASTM D1475)",
+            "Equivalent Weight": "810 to 850 g/eq (Internal Method)",
+            "Polymer Concentration": "24 wt%",
+            "Solvent System": ">99% water, free of ethers %",
+            "Total Acid Capacity": "1.17 to 1.23 meq/g (Internal Method)",
+            "Viscosity": "5 to 15 mPa.s (ASTM D2196)",
+            "HSE/Transport Classification": "Corrosive",
+            "Flammability at ambient conditions": "Non flammable"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae D98-25BS",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-d98-25bs-72800012?limit=100",
+        "stock": false,
+        "spec": {
+            "Appearance": "Off-white",
+            "Form": "Liquid",
+            "Density": "1.15 g/cm3 (at 20 deg Celsius, ASTM D1475)",
+            "Equivalent Weight": "940 to 1020 g/eq (Internal Method)",
+            "Polymer Concentration": "25 wt%",
+            "Solvent System": ">99% water, free of ethers %",
+            "Total Acid Capacity": "0.98 to 1.06 meq/g (Internal Method)",
+            "Viscosity": "<25 mPa.s (ASTM D2196)",
+            "HSE/Transport Classification": "Corrosive",
+            "Flammability at ambient conditions": "Non flammable"
+        }
+    },
+    {
+        "name": "Fumasep FAPQ-375-PP",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fapq-375-pp?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "68 - 82 \u00b5m (microns)",
+            "Appearance / Color": "Translucent to white",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PP",
+            "Counter Ion": "None",
+            "Density": "8.5 - 10 mg\u2022cm-2",
+            "Specific Area Resistance": "< 1.5 (in Cl- form) \u2126\u2022cm2",
+            "Selectivity": "> 90 %",
+            "Proton Transfer Rate": "> 500 \u00b5mol\u2022min-1\u2022cm-2",
+            "Dimensional Swelling in H2O at 25\u00b0C": "< 3 %",
+            "Uptake in H2O at 25\u00b0C": "25 wt %",
+            "Non-Std Modulus": "400 - 550 MPa",
+            "Tensile Strength - max.": "35 - 45 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "15 - 22 MPa",
+            "Elongation to Break": "22 - 35 %"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae P87S-SO2F",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-p87s-so2f-72800016?limit=100",
+        "stock": false,
+        "spec": {
+            "Appearance": "Translucent",
+            "Form": "Pellets",
+            "Melt Mass Flow Rate": "15 to 50 g/10 min for 5.0 kg batch size (ASTM D1238)",
+            "Density": "2.08 g/cm3 (ASTM D792)",
+            "Equivalent Weight": "840 to 900 g/eq (Internal Method)",
+            "Melting Temperature": "230 to 250 deg Celsius (ASTM D3418)",
+            "Crystallization Heat": "230 to 250 deg Celsius (ASTM D3418)",
+            "Heat of Fusion": "8 to 10 deg Celsius (ASTM D3418)",
+            "Drying Temperature": "105 deg Celsius (Internal Method)",
+            "Drying Time": "20.0 hr",
+            "Thermal Resistance": "350 deg Celsius (Internal Method with TGA, in air ramped 10 deg Celsius/min)"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae P98",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-p98-so2f-72800018?limit=100",
+        "stock": false,
+        "spec": {
+            "Appearance": "Translucent",
+            "Form": "Pellets",
+            "Melt Mass Flow Rate": "15 to 50 g/10 min for 5.0 kg batch size (ASTM D1238)",
+            "Density": "2.08 g/cm3 (ASTM D792)",
+            "Equivalent Weight": "940 to 1020 g/eq (Internal Method)",
+            "Melting Temperature": "230 to 250 deg Celsius (ASTM D3418)",
+            "Crystallization Heat": "8.00 to 10.00 J/g (ASTM D3418)",
+            "Heat of Fusion": "8.00 to 10.00 J/g (ASTM D3418)",
+            "Drying Temperature": "105 deg Celsius (Internal Method)",
+            "Drying Time": "20.0 hr",
+            "Thermal Resistance": "350 deg Celsius (Internal Method with TGA, in air ramped 10 deg Celsius/min)"
+        }
+    },
+    {
+        "name": "Fumapem AM-40 - PBI Copolymer",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-am-40?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "PBI Copolymer",
+            "Thickness": "40 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Non-Std Modulus": "2500 - 4500 MPa",
+            "Tensile Strength - max.": "> 150 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "> 150 MPa",
+            "Elongation to Break": "> 30 %",
+            "Residual Solvent / Additive Content": "< 2 %"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae PW79S",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-pw79s-72800020?limit=100",
+        "stock": true,
+        "spec": {
+            "Form": "Powder",
+            "Equivalent Weight": "770 to 810 g/eq (Internal Method)",
+            "Total Acid Capacity": "1.23 to 1.30 meq/g (Internal Method)",
+            "Water Content": "5.0 wt%",
+            "Appearance": "White colored powder"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae PW87S",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-pw87s-72800022?limit=100",
+        "stock": false,
+        "spec": {
+            "Form": "Powder",
+            "Equivalent Weight": "840 to 900 g/eq (Internal Method)",
+            "Total Acid Capacity": "1.11 to 1.19 meq/g (Internal Method)",
+            "Water Content": "5.0 wt%",
+            "Appearance": "White colored powder"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae PW98",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-pw98-72800024?limit=100",
+        "stock": true,
+        "spec": {
+            "Form": "Powder",
+            "Equivalent Weight": "940 to 1020 g/eq (Internal Method)",
+            "Total Acid Capacity": "0.98 to 1.06 meq/g (Internal Method)",
+            "Water Content": "5.0 wt%",
+            "Appearance": "White colored powder"
+        }
+    },
+    {
+        "name": "Fumapem F-930-RFS",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-f-930-rfs?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "28 - 33 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colorless",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "Yes",
+            "Counter Ion": "H-form",
+            "Specific Area Resistance": "< 0.15 (in H2O at 25\u00b0C in H-form) \u2126\u2022cm2",
+            "Specific Conductivity": "110 (in H2O at 25\u00b0C in H-form) mS\u2022cm-1",
+            "Ion Exchange Capacity": "0.89 - 1.02 (in H2O at 25\u00b0C in H-form) meq\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "3 (in H-form) %",
+            "Uptake in H2O at 25\u00b0C": "15 (in H-form) wt %",
+            "Non-Std Modulus": "> 230 MPa",
+            "Tensile Strength - max.": "> 20 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "> 10 MPa",
+            "Elongation to Break": "> 150 %"
+        }
+    },
+    {
+        "name": "Fumasep F-930-RFD",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-f-930-rfd?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "28 - 35 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Slightly Opaque",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "Yes",
+            "Counter Ion": "H+ form",
+            "Weight Per Unit Area": "5.9 - 7.7 g\u2022cm2",
+            "Specific Area Resistance": "< 0.21 (in 0.5M H2SO4) \u2126\u2022cm2",
+            "Proton Transfer Rate": "> 7.500",
+            "Dimensional Swelling in Vanadyl Sulfate at T =25\u00b0C": "< 6 %",
+            "Uptake in Vanadyl Sulfate at T =25\u00b0C": "< 6 wt %",
+            "Non-Std Modulus": "290 - 340 MPa",
+            "Tensile Strength - max.": "37 - 49 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "0 MPa",
+            "Elongation to Break": "80 - 150 %",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep F-1850",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-f-1850?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "45 - 50 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colourless",
+            "Backing Foil": "PET Foil (white)",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Weight Per Unit Area": "9.9 - 10.9 g\u2022cm2",
+            "Specific Area Resistance": "< 0.30 (in 0.5M H2SO4) \u2126\u2022cm2",
+            "Dimensional Swelling in Vanadyl Sulfate at T =25\u00b0C": "4 %",
+            "Uptake in Vanadyl Sulfate at T =25\u00b0C": "3 wt %",
+            "Non-Std Modulus": "> 230 MPa",
+            "Tensile Strength - max.": "24 - 30 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "8 - 12 MPa",
+            "Elongation to Break": "360 - 390 %"
+        }
+    },
+    {
+        "name": "Fumasep F-10270-PTFE-e",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-f-10270-ptfe-e?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "260 - 280 \u00b5m (microns)",
+            "Appearance / Color": "White",
+            "Backing Foil": "None",
+            "Delivery Form": "Wet",
+            "Reinforcement": "PTFE",
+            "Counter Ion": "Na+ form",
+            "Specific Area Resistance": "< 0.45 \u03a9 cm2",
+            "Specific Conductivity": "> 55 mS cm-1",
+            "Ion Exchange Capacity": "0.86 meq g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "9 - 11 %",
+            "Uptake in H2O at 25\u00b0C": "22 wt %",
+            "Non-Std Modulus": "> 1000",
+            "Tensile Strength - max.": "22 - 25 MPa",
+            "Elongation to Break": "N/A",
+            "pH Stability Range at 90\u00b0C": "1 - 14"
+        }
+    },
+    {
+        "name": "Fumapem FS-715-RFS",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-fs-715-rfs?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "15 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colourless",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "Yes",
+            "Counter Ion": "H- form",
+            "Specific Area Resistance": "< 0.04 \u03a9 cm2",
+            "Specific Conductivity": "> 140 mS cm-1",
+            "Ion Exchange Capacity": "1.38 meq g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "2 %",
+            "Uptake in H2O at 25\u00b0C": "13 wt %",
+            "Tensile Strength - max.": "> 20 MPa",
+            "Elongation to Break": "> 150"
+        }
+    },
+    {
+        "name": "Fumapem FS-930-RFS",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-fs-930-rfs?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "27 - 32 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colourless",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "Yes",
+            "Counter Ion": "H- form",
+            "Specific Area Resistance": "< 0.02 \u03a9 cm2",
+            "Specific Conductivity": "> 120 mS cm-1",
+            "Ion Exchange Capacity": "1.15 meq g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "10 %",
+            "Uptake in H2O at 25\u00b0C": "17 wt %",
+            "Tensile Strength - max.": "> 20 MPa",
+            "Elongation to Break": "> 150"
+        }
+    },
+    {
+        "name": "Fumapem FS-930",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-fs-930?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "27 - 31 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Colourless",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "No",
+            "Counter Ion": "H- form",
+            "Specific Area Resistance": "< 0.07 \u03a9 cm2",
+            "Specific Conductivity": "> 120 mS cm-1",
+            "Ion Exchange Capacity": "1.14 meq g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "19 %",
+            "Uptake in H2O at 25\u00b0C": "13 wt %",
+            "Tensile Strength - max.": "> 20 MPa",
+            "Elongation to Break": "> 150"
+        }
+    },
+    {
+        "name": "Fumasep FS-720",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fs-720?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "18 - 22 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Slightly Opaque",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "H- form",
+            "Specific Area Resistance": "< 0.05 \u03a9 cm2",
+            "Specific Conductivity": "> 90 mS cm-1",
+            "Dimensional Swelling in Vanadyl Sulfate at T =25\u00b0C": "3 %",
+            "Uptake in Vanadyl Sulfate at T =25\u00b0C": "6 wt %",
+            "Tensile Strength - max.": "> 20 MPa",
+            "Elongation to Break": "130 - 190"
+        }
+    },
+    {
+        "name": "Fumasep FAAM-15",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faam-15?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "13 - 17 \u00b5m (microns)",
+            "Appearance / Color": "Dark Yellow to Brown, Transparent",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "None",
+            "Tensile Strength - max.": "> 100 MPa",
+            "Elongation to Break": "> 30"
+        }
+    },
+    {
+        "name": "Fumapem AP-30 - PBI Copolymer",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumapem-ap-30?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "PBI Copolymer",
+            "Thickness": "25 - 35 \u00b5m (microns)",
+            "Appearance / Color": "Brown, Transparent",
+            "Backing Foil": "None",
+            "Reinforcement": "None",
+            "Weight Per Unit Area": "6 - 7.5 mg cm2",
+            "Residual Solvent / Additive Content": "< 5"
+        }
+    },
+    {
+        "name": "Fumatech Cation Membrane Variety Kit",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumatech-cation-membrane-variety-kit?limit=100",
+        "stock": false,
+        "spec": {}
+    },
+    {
+        "name": "Fumatech Anion Membrane Variety Kit",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumatech-anion-membrane-variety-kit?limit=100",
+        "stock": false,
+        "spec": {}
+    },
+    {
+        "name": "Fumasep FAA-3-20",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faa-3-20?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "18 - 22 \u00b5m (microns)",
+            "Appearance / Color": "Transparent / Light Brown",
+            "Backing Foil": "PET Foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Specific Area Resistance": "< 2.0 (in Cl- form) \u2126\u2022cm2",
+            "Specific Conductivity": "> 5 mS\u2022cm-1",
+            "Selectivity": "> 90 %",
+            "Ion Exchange Capacity": "1.65 - 1.85 mmol\u2022g-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "< 2 %",
+            "Uptake in H2O at 25\u00b0C": "7 wt %",
+            "pH Stability Range at 25\u00b0C": "1 - 12 pH"
+        }
+    },
+    {
+        "name": "Sustainion\u00ae X37-50 Grade RT",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/sustainion-x37-50-grade-rt-membrane?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Fumasep FKS-PET-75",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fks-pet-75?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "74 - 87 \u00b5m (microns)",
+            "Appearance / Color": "Light Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PET",
+            "Counter Ion": "H+ form",
+            "Density": "8.1 - 9.1 mg\u2022cm-2",
+            "Specific Area Resistance": "< 2.5 (in Na+ form) \u2126\u2022cm2",
+            "Selectivity": "> 95 %",
+            "Hydroxyl Transfer Rate": "80 - 350 \u00b5mol\u2022min-1\u2022cm-2",
+            "Ion Exchange Capacity": "1.0 - 1.25 (in Na+ form) meq\u2022g-1",
+            "Non-Std Modulus": "> 1000 MPa",
+            "Tensile Strength - max.": "> 45 MPa",
+            "Elongation to Break": "> 12 %",
+            "pH Stability Range at 25\u00b0C": "0 - 9 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Sustainion\u00ae X37-50 Grade 60",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/sustainion-x37-50-grade-60-membrane?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Fumasep FAA-3-PE-30",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faa-3-pe-30-membrane?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "20 - 30 \u00b5m (microns)",
+            "Appearance / Color": "Brown, Slightly Opaque",
+            "Backing Foil": "PET foil",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PE",
+            "Counter Ion": "Bromide form",
+            "Weight Per Unit Area": "2.0 \u2013 2.8 mg cm^-2",
+            "Area Specific Resistance": "0.8 \u2013 1.3",
+            "Specific Conductivity": "1.5 \u2013 2.0 mS cm^-1",
+            "Selectivity": "94 - 98% (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Proton Transfer Rate": "1000 \u2013 2000 \u03bcmol min^- 1 c m^-2",
+            "Ion Exchange Capacity": "1.4 - 1.6 mmol g^-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "0 - 1%",
+            "Uptake in H2O at 25\u00b0C": "15 \u2013 20 wt%",
+            "Tensile Strength - max.": "40 - 50 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "30 - 40 MPa",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "1000 - 1500 MPa",
+            "Elongation to Break": "30 - 50",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Sustainion\u00ae X37-50 Grade T",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/sustainion-x37-50-grade-t-membrane?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Sustainion\u00ae X37-FA",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/sustainion-x37-fa-membrane?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Fumasep FS-950",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fs-950-membrane?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "45 - 55 \u00b5m (microns)",
+            "Appearance / Color": "Transparent",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "H+ form",
+            "Weight Per Unit Area": "8.2 - 9.2 g cm^-2",
+            "Specific Area Resistance": "< 0.1 \u03a9 cm2 (0.5 M H2SO4)",
+            "Selectivity": "> 98 % (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Proton Transfer Rate": "> 8000 \u03bcmol min^-1 cm^-2",
+            "Dimensional Swelling in Vanadyl Sulfate at T =25\u00b0C": "< 4 %",
+            "Uptake in Vanadyl Sulfate at T =25\u00b0C": "< 5 wt %",
+            "Tensile Strength - max.": "36 \u2013 50 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "19 \u2013 28 MPa",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "270 \u2013 340 MPa",
+            "Elongation to Break": "90 \u2013 150",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FS-990-PK",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fs-990-pk-membrane?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "85 \u2013 105 \u00b5m (microns)",
+            "Appearance / Color": "Slightly Brownish",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PK",
+            "Counter Ion": "H form",
+            "Weight Per Unit Area": "13 \u2013 17 g cm^-2",
+            "In-Plane Conductivity": "> 60",
+            "Ion Exchange Capacity": "1.1 - 1.25 meq.g^-1",
+            "Tensile Strength - max.": "30 \u2013 60 MPa",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "500 \u2013 1000 MPa",
+            "Elongation to Break": ">20"
+        }
+    },
+    {
+        "name": "Fumasep FS-9100-PK",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fs-9100-pk-membrane?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "85 \u2013 100 \u00b5m (microns)",
+            "Appearance / Color": "Trans-illuminant, but not fully transparent / yellow to beige",
+            "Backing Foil": "None",
+            "Delivery Form": "Activated",
+            "Reinforcement": "PK",
+            "Counter Ion": "H+ form",
+            "Weight Per Unit Area": "19 \u2013 21 g cm^-2",
+            "Area Specific Resistance": "< 0.45",
+            "Conductivity": "> 80",
+            "Selectivity": "> 95% (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Ion Exchange Capacity": "1.08 - 1.15 meq.g^-1",
+            "Tensile Strength - max.": "33 \u2013 40 MPa",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "> 700 MPa",
+            "Elongation to Break": "38 \u2013 42",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FAP-330-PE",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fap-330-pe-membrane?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "24 \u2013 32 \u00b5m (microns)",
+            "Appearance / Color": "Opaque",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PE",
+            "Counter Ion": "None",
+            "Weight Per Unit Area": "3.4 \u2013 4.0 mg cm^-2",
+            "Area Specific Resistance": "< 0.4 (0.5 M H2SO4)",
+            "Specific Conductivity": "> 12 mS cm^-1 (0.5 M H2SO4)",
+            "Selectivity": "> 88% (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Proton Transfer Rate": "> 1500 \u03bcmol min^- 1 c m^-2",
+            "Dimensional Swelling in Vanadyl Sulfate at T =25\u00b0C": "< 1 %",
+            "Uptake in Vanadyl Sulfate at T =25\u00b0C": "20 wt%",
+            "Tensile Strength - max.": "45 \u2013 65 MPa",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "1400 \u2013 2000 MPa",
+            "Elongation to Break": "18 \u2013 30"
+        }
+    },
+    {
+        "name": "Fumasep FAP-330",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fap-330-membrane?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "27 \u2013 33 \u00b5m (microns)",
+            "Appearance / Color": "Transparent",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "None",
+            "Weight Per Unit Area": "4.5 \u2013 5.0 mg cm^-2",
+            "Area Specific Resistance": "< 0.45 (0.5 M H2SO4)",
+            "Specific Conductivity": "> 8 mS cm^-1 (0.5 M H2SO4)",
+            "Selectivity": "> 85% (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Proton Transfer Rate": "> 5500 \u03bcmol min^- 1 c m^-2",
+            "Dimensional Swelling in Vanadyl Sulfate at T =25\u00b0C": "8 \u2013 18 %",
+            "Uptake in Vanadyl Sulfate at T =25\u00b0C": "10 \u2013 20 wt%",
+            "Tensile Strength - max.": "40 \u2013 60 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "24 \u2013 40 MPa",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "700 \u2013 1500 MPa",
+            "Elongation to Break": "150 \u2013 250"
+        }
+    },
+    {
+        "name": "Fumasep FAPQ-330",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fapq-330-membrane?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "25 \u2013 35 \u00b5m (microns)",
+            "Appearance / Color": "Slightly Opaque",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "Chloride / Methylsulfate",
+            "Weight Per Unit Area": "4.0 \u2013 5.0 mg cm^-2",
+            "Area Specific Resistance": "< 0.35 (0.5 M H2SO4)",
+            "Selectivity": "> 85% (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Proton Transfer Rate": "> 5.500 \u03bcmol min^- 1 c m^-2",
+            "Tensile Strength - max.": "20 \u2013 45 MPa",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "20 \u2013 35 MPa",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "600 \u2013 1200 MPa",
+            "Elongation to Break": "150 \u2013 250"
+        }
+    },
+    {
+        "name": "Fumasep FAAM-20",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faam-20-membrane?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "18 - 22 \u00b5m (microns)",
+            "Appearance / Color": "Brown, Transparent",
+            "Backing Foil": "on PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "None",
+            "Swelling": "40 - 60 wt% (treatment with 12 M aqueous KOH at 20 \u00b0C for 1 day)",
+            "Length Increase": "0 - 2 wt% (treatment with 12 M aqueous KOH at 20 \u00b0C for 1 day)",
+            "Thickness Increase": "25 - 40% (treatment with 12 M aqueous KOH at 20 \u00b0C for 1 day)",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "> 1000 MPa",
+            "Temperature durability": "No oxidation below 250 \u00b0C",
+            "pH durability range": "stable under highly alkaline conditions",
+            "Pressure operation": "Not tested above 1 bar difference"
+        }
+    },
+    {
+        "name": "Fumasep FAAM-40",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faam-40?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "37 - 43 \u00b5m (microns)",
+            "Appearance / Color": "Brown, Transparent",
+            "Backing Foil": "on PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "None",
+            "Swelling": "40 - 60 wt% (treatment with 12 M aqueous KOH at 20 \u00b0C for 1 day)",
+            "Length Increase": "0 - 2% (treatment with 12 M aqueous KOH at 20 \u00b0C for 1 day)",
+            "Thickness Increase": "25 \u2013 40% (treatment with 12 M aqueous KOH at 20 \u00b0C for 1 day)",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "> 1000 MPa",
+            "Temperature durability": "No oxidation below 250 \u00b0C",
+            "pH durability range": "stable under highly alkaline conditions",
+            "Pressure operation": "Not tested above 1 bar difference"
+        }
+    },
+    {
+        "name": "Fumasep FAA-3-30",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faa-3-30?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "26 \u2013 34 \u00b5m (microns)",
+            "Appearance / Color": "Brown, Transparent",
+            "Backing Foil": "on PET",
+            "Reinforcement": "None",
+            "Specific Conductivity": "> 5 mS cm^-1  (Cl^-1 form)",
+            "Selectivity": "> 90 % (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Ion Exchange Capacity": "1.67 \u2013 2.04 mmol g^-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "< 2 %",
+            "Uptake in H2O at 25\u00b0C": "< 19 wt %"
+        }
+    },
+    {
+        "name": "Fumasep FAM",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fam?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "450 \u2013 500 \u00b5m (microns)",
+            "Appearance / Color": "Light yellow",
+            "Backing Foil": "None",
+            "Reinforcement": "PP (polypropylene fabrics)\r\n",
+            "Specific Conductivity": "> 1.7 mS cm^-1  (Cl^-1 form)",
+            "Selectivity": "< 96 % (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Proton Transfer Rate": "> 50 nmol min^-1 cm^-2",
+            "Ion Exchange Capacity": "1.2 \u2013 1.4 meq g^-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "< 2 %",
+            "Uptake in H2O at 25\u00b0C": "< 20 wt %",
+            "pH Stability Range at 25\u00b0C": "1 \u2013 10 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FKM",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fkm?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Cation Exchange Membrane",
+            "Thickness": "450 \u2013 500 \u00b5m (microns)",
+            "Appearance / Color": "Brown",
+            "Backing Foil": "None",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PP (polypropylene fabrics)",
+            "Counter Ion": "Sodium (Na+)",
+            "Weight Per Unit Area": "44 - 52 mg cm^-2 ",
+            "Area Specific Resistance": "< 30",
+            "Conductivity": "> 1.7",
+            "Selectivity": "> 93% (0.1 / 0.5 mol/kg KCl at T = 25 \u00b0C)",
+            "Hydroxyl Transfer Rate": "> 50 nmol min^-1 cm^-2",
+            "Ion Exchange Capacity": "1.6 meq.g^-1",
+            "Dimensional Swelling in H2O at 25\u00b0C": "< 2 %",
+            "Uptake in H2O at 25\u00b0C": "< 20 wt %",
+            "pH Stability Range at 25\u00b0C": "1 - 10 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FAP-420-PE",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-fap-420-pe?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "18 \u2013 24 \u00b5m (microns)",
+            "Appearance / Color": "Slightly opaque",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "PE\r\n",
+            "Weight Per Unit Area": "2.5 - 3.8 mg cm^-2",
+            "Proton Transfer Rate": "> 1500 \u00b5mol min^-1 cm^-2",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "900 \u2013 1800 MPa",
+            "Elongation to Break": "> 20 %",
+            "pH Stability Range at 25\u00b0C": "0 \u2013 9 pH",
+            "Bubble Point Test in Water at 25\u00b0C": "> 3 bar"
+        }
+    },
+    {
+        "name": "Fumasep FAAM-10",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/fumasep-faam-10?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "Anion Exchange Membrane",
+            "Thickness": "10 \u2013 13 \u00b5m (microns)",
+            "Appearance / Color": "Light Brown, transparent",
+            "Backing Foil": "PET",
+            "Delivery Form": "Dry",
+            "Reinforcement": "None",
+            "Counter Ion": "None",
+            "Yield Strength at 23\u00b0C / 50 % R.H.": "> 100 MPa",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "> 2000 MPa",
+            "Elongation to Break": "> 30 %",
+            "pH durability range": "Stable under highly alkaline conditions"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae E87-05S",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-e87-05s-72700000?limit=100",
+        "stock": false,
+        "spec": {
+            "Thickness": "50 micrometers (or 2 mils)",
+            "Density": "1.93 g/cm3 (at 23 deg Celsius and 50% RH. Internal Method.)",
+            "Weight Per Unit Area": "97 g/m2",
+            "Equivalent Weight": "870 g/eq (Internal Method)",
+            "Conductivity": "greater than 228 mS/cm (Internal Method)",
+            "Total Acid Capacity": "greater than 1.12 meq/g (Internal Method)",
+            "Water uptake": "35% (4 hours of soak in liquid H2O @ 100 deg Celsius. Internal Method.)",
+            "Tensile Modulus": "240 MPa (Internal Method)",
+            "Tensile Stress": "30 MPa (ASTM D882)",
+            "Elongation % in liquid H2O": "less than 25% (Internal Method)",
+            "Elongation": "200% (ASTM D882)"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae E98-05S",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-e98-05s-72700006?limit=100",
+        "stock": false,
+        "spec": {
+            "Thickness": "50 micrometers (or 2 mils)",
+            "Density": "1.93 g/cm3 (at 23 deg Celsius and 50% RH. Internal Method.)",
+            "Weight Per Unit Area": "97 g/m2",
+            "Equivalent Weight": "980 g/eq (Internal Method)",
+            "Conductivity": "Greater than 160 mS/cm (Internal Method)",
+            "Total Acid Capacity": "greater than 1.00 meq/g (Internal Method)",
+            "Water uptake": "Less than 25% (4 hours of soak in liquid H2O @ 100 deg Celsius. Internal Method.)",
+            "Tensile Modulus": "270 MPa (Internal Method)",
+            "Tensile Stress": "30 MPa (ASTM D882)",
+            "Elongation % in liquid H2O": "Less than 20% (Internal Method)",
+            "Elongation": "200% (ASTM D882)"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae E98-09S",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-e98-09s-72700009?limit=100",
+        "stock": false,
+        "spec": {
+            "Thickness": "90 micrometers +/- 20 micrometers (or 3.5-4.5 mils)",
+            "Density": "1.93 g/cm3 (at 23 deg Celsius and 50% RH. Internal Method.)",
+            "Weight Per Unit Area": "174 g/m2",
+            "Equivalent Weight": "980 g/eq (Internal Method)",
+            "Conductivity": "Greater than 160 mS/cm (Internal Method)",
+            "Total Acid Capacity": "greater than 1.00 meq/g (Internal Method)",
+            "Water uptake": "Less than 30% (4 hours of soak in liquid H2O @ 100 deg Celsius. Internal Method.)",
+            "Tensile Modulus": "270 MPa (Internal Method)",
+            "Tensile Stress": "30 MPa (ASTM D882)",
+            "Elongation % in liquid H2O": "Less than 20% (Internal Method)",
+            "Elongation": "200% (ASTM D882)"
+        }
+    },
+    {
+        "name": "Aquivion\u00ae E98-15S",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/solvay-aquivion-e98-15s-72700012?limit=100",
+        "stock": false,
+        "spec": {
+            "Thickness": "150 micrometers (or 5.9 mils)",
+            "Density": "1.93 g/cm3 (at 23 deg Celsius and 50% RH. Internal Method.)",
+            "Weight Per Unit Area": "290 g/m2",
+            "Equivalent Weight": "980 g/eq (Internal Method)",
+            "Conductivity": "Greater than 160 mS/cm (Internal Method)",
+            "Total Acid Capacity": "greater than 1.00 meq/g (Internal Method)",
+            "Water uptake": "Less than 30% (4 hours of soak in liquid H2O @ 100 deg Celsius. Internal Method.)",
+            "Tensile Modulus": "270 MPa (Internal Method)",
+            "Tensile Stress": "30 MPa (ASTM D882)",
+            "Elongation % in liquid H2O": "Less than 20% (Internal Method)",
+            "Elongation": "200% (ASTM D882)"
+        }
+    },
+    {
+        "name": "Polypropylene Turbulence Promoter Mesh",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/polypropylene-turbulence-promoter-mesh?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "PTFE Turbulence Promoter Mesh",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/ptfe-turbulence-promoter-mesh?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "PiperION\u00ae Anion Exchange Membrane, 15 microns (Gen2), Mechanically Reinforced",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/piperion-15microns-gen2-mechanically-reinforced-aem?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "15 micrometers",
+            "Basis Weight": "Undisclosed",
+            "Tensile Strength": "Undisclosed",
+            "Young's Modulus": "Undisclosed",
+            "Elongation at Break": "Undisclosed",
+            "Specific Gravity": "Undisclosed",
+            "Ion Exchange Capacity": "Undisclosed",
+            "Conductivity": "Undisclosed",
+            "Swelling Ratio": "Undisclosed",
+            "Water Uptake": "Undisclosed",
+            "Ionic Form and Type": "Anionic (Bicarbonate)"
+        }
+    },
+    {
+        "name": "PiperION\u00ae Anion Exchange Membrane, 20 microns, Self-Supporting",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/versogen-piperion-aem-self-supporting-20um-73800000?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "20 micrometers",
+            "Basis Weight": "~22.6 g/m2",
+            "Tensile Strength": ">30 MPa",
+            "Young's Modulus": ">30",
+            "Elongation at Break": ">20",
+            "Specific Gravity": "~1.13",
+            "Ion Exchange Capacity": "~2.35 meq/g",
+            "Conductivity": "~150 mS/cm (OH- form at 80 deg C)",
+            "Swelling Ratio": "8% (at 80 deg C in 1M KOH)",
+            "Water Uptake": "50% (at 80 deg C in 1M KOH)",
+            "Ionic Form and Type": "Anionic (bicarbonate)"
+        }
+    },
+    {
+        "name": "PiperION\u00ae Anion Exchange Membrane, 40 microns, Self-Supporting",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/versogen-piperion-aem-self-supporting-40um-73800014?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "40 micrometers",
+            "Basis Weight": "Not disclosed",
+            "Tensile Strength": "Not disclosed",
+            "Young's Modulus": "Not disclosed",
+            "Elongation at Break": "Not disclosed",
+            "Specific Gravity": "Not disclosed",
+            "Ion Exchange Capacity": "Not disclosed",
+            "Conductivity": "Not disclosed",
+            "Swelling Ratio": "Not disclosed",
+            "Water Uptake": "Not disclosed",
+            "Ionic Form and Type": "Anionic (bicarbonate)"
+        }
+    },
+    {
+        "name": "PiperION\u00ae Anion Exchange Membrane, 60 microns, Self-Supporting",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/versogen-piperion-aem-self-supporting-60um-73800019?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "60 micrometers",
+            "Basis Weight": "Not disclosed",
+            "Tensile Strength": "Not disclosed",
+            "Young's Modulus": "Not disclosed",
+            "Elongation at Break": "Not disclosed",
+            "Specific Gravity": "Not disclosed",
+            "Ion Exchange Capacity": "Not disclosed",
+            "Conductivity": "Not disclosed",
+            "Swelling Ratio": "Not disclosed",
+            "Water Uptake": "Not disclosed",
+            "Ionic Form and Type": "Anionic (bicarbonate)"
+        }
+    },
+    {
+        "name": "PiperION\u00ae Anion Exchange Membrane, 80 microns, Self-Supporting",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/versogen-piperion-aem-self-supporting-80um-73800002?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "80 micrometers",
+            "Basis Weight": "~90.4 g/m2",
+            "Tensile Strength": ">50 MPa",
+            "Young's Modulus": ">50",
+            "Elongation at Break": ">100",
+            "Specific Gravity": "~1.13",
+            "Ion Exchange Capacity": "~2.35 meq/g",
+            "Conductivity": "~150 mS/cm (OH- form at 80 deg C)",
+            "Swelling Ratio": "8% (at 80 deg C in 1M KOH)",
+            "Water Uptake": "50% (at 80 deg C in 1M KOH)",
+            "Ionic Form and Type": "Anionic (bicarbonate)"
+        }
+    },
+    {
+        "name": "HP6 ePTFE Reinforced PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-6-microns?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "6\u00b11 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.035 S/cm (or \u2265 35 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 40 / 40 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "PiperION\u00ae Anion Exchange Membrane, 15 microns, Mechanically Reinforced",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/versogen-piperion-aem-mechanically-reinforced-15um-73800004?limit=100",
+        "stock": false,
+        "spec": {
+            "Thickness": "15 micrometers",
+            "Basis Weight": "Undisclosed",
+            "Tensile Strength": "Undisclosed",
+            "Young's Modulus": "Undisclosed",
+            "Elongation at Break": "Undisclosed",
+            "Specific Gravity": "Undisclosed",
+            "Ion Exchange Capacity": "Undisclosed",
+            "Conductivity": "Undisclosed",
+            "Swelling Ratio": "Undisclosed",
+            "Water Uptake": "Undisclosed",
+            "Ionic Form and Type": "Anionic (Bicarbonate)"
+        }
+    },
+    {
+        "name": "HP6-Pt ePTFE Reinforced, Pt Impregnated PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-6-microns-pt-impregnated?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "6\u00b11 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.035 S/cm (or \u2265 35 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 40 / 40 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP9 ePTFE Reinforced PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-9-microns?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "9\u00b11 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.035 S/cm (or \u2265 35 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 40 / 40 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP9-Pt ePTFE Reinforced, Pt Impregnated PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-9-microns-pt-impregnated?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "9\u00b11 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.035 S/cm (or \u2265 35 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 40 / 40 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP12 ePTFE Reinforced PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-12-microns?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "12\u00b11 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.035 S/cm (or \u2265 35 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 35 / 35 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP15 ePTFE Reinforced PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-15-microns?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "15\u00b11 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.035 S/cm (or \u2265 35 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 30 / 30 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP12-Pt ePTFE Reinforced, Pt Impregnated PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-12-microns-pt-impregnated?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "12\u00b11 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.035 S/cm (or \u2265 35 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 35 / 35 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP15-Pt ePTFE Reinforced, Pt Impregnated PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-15-microns-pt-impregnated?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "15\u00b11 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.035 S/cm (or \u2265 35 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 30 / 30 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP50 ePTFE Reinforced PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-50-microns?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "50\u00b12.5 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.050 S/cm (or \u2265 50 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 35 / 35 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP50-Pt ePTFE Reinforced, Pt Impregnated PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-50-microns-pt-impregnated?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "50\u00b12.5 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.050 S/cm (or \u2265 50 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 35 / 35 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP80 ePTFE Reinforced PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-80-microns?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "80\u00b13 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.050 S/cm (or \u2265 50 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 35 / 35 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP80-Pt ePTFE Reinforced, Pt Impregnated PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-80-microns-pt-impregnated?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "80\u00b13 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.050 S/cm (or \u2265 50 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 35 / 35 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP110 ePTFE Reinforced PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-110-microns?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "110\u00b15 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.050 S/cm (or \u2265 50 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 35 / 35 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "HP110-Pt ePTFE Reinforced, Pt Impregnated PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/eptfe-reinforced-pfsa-membrane-110-microns-pt-impregnated?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "110\u00b15 micrometers (per GB/T20043.2022)",
+            "Conductivity": "> 0.050 S/cm (or \u2265 50 mS/cm)",
+            "Modulus": "> 250 / 250 MPa (MD/TD) (per GB/T20043.2022)",
+            "Tensile Strength - max.": "> 35 / 35 MPa (MD/TD) (per GB/T20043.2022)",
+            "Elongation to Break": "> 100% / 100% (MD/TD) (per GB/T20043.2022)"
+        }
+    },
+    {
+        "name": "PurionX -111 Mechanically Reinforced Anion Exchange Membrane - (8\"x8\")",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/purionx-111?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane Type": "Anion exchange membrane",
+            "Thickness": "50-55 micrometers",
+            "Appearance / Color": "Clear, semitransparent",
+            "Delivery Form": "Wet",
+            "Reinforcement": "Yes",
+            "Counter Ion": "Chloride (Cl-)",
+            "Alkaline stability in 1M KOH": ">15000 hours at 80 deg C",
+            "Weight Per Unit Area": "4.0-4.3 mg/cm2",
+            "Oxidation Stability in Fenton's Reagent": "> 24 hours at 80 deg C",
+            "Hydroxyl Ion Conductivity": "33-38 mS/cm at 23 deg C",
+            "Ion Exchange Capacity": "2.2-2.5 meq/g (Cl- form)",
+            "Water uptake": "50-60% (at 23 deg C)",
+            "Dimensional Swelling in H2O at 25\u00b0C": "<10% (in-plane)",
+            "Tensile Strength - max.": "100-120 (at 23 deg C, 50% RH)",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "1500-2000 MPa (at 23 deg C, 50% RH)",
+            "Elongation to Break": "20-40% (at 23 deg C, 50% RH)"
+        }
+    },
+    {
+        "name": "PurionX -121 Mechanically Reinforced Anion Exchange Membrane - (8\"x8\")",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/purionx-121?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane Type": "Anion exchange membrane",
+            "Thickness": "~40 micrometers (dry)",
+            "Appearance / Color": "Clear, semitransparent",
+            "Delivery Form": "Wet",
+            "Reinforcement": "Yes",
+            "Counter Ion": "Chloride (Cl-)",
+            "Alkaline stability in 1M KOH": ">12000 hours at 80 deg C",
+            "Weight Per Unit Area": "4.5-4.8 mg/cm2",
+            "Oxidation Stability in Fenton's Reagent": ">20 hours at 80 deg C",
+            "Hydroxyl Ion Conductivity": "50-54 mS/cm at 23 deg C",
+            "Ion Exchange Capacity": "2.2-2.5 meq/g (Cl- form)",
+            "Water uptake": "55-65% (at 23 deg C)",
+            "Dimensional Swelling in H2O at 25\u00b0C": "<15% (in-plane)",
+            "Tensile Strength - max.": "50-100 MPa (at 23 deg C, 50% RH)",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "1300-1800 MPa (at 23 deg C, 50% RH)",
+            "Elongation to Break": "30-50% (at 23 deg C, 50% RH)"
+        }
+    },
+    {
+        "name": "PurionX -131 Mechanically Reinforced Anion Exchange Membrane - (8\"x8\")",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/purionx-131?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane Type": "Anion exchange membrane",
+            "Thickness": "40-45 micrometers (dry)",
+            "Appearance / Color": "Clear, semitransparent",
+            "Delivery Form": "Wet",
+            "Reinforcement": "Yes",
+            "Counter Ion": "Chloride (Cl-)",
+            "Alkaline stability in 1M KOH": ">18000 hours at 80 deg C",
+            "Weight Per Unit Area": "3.5-3.7 mg/cm2",
+            "Oxidation Stability in Fenton's Reagent": ">40 hours at 80 deg C",
+            "Hydroxyl Ion Conductivity": "48-52 mS/cm at 23 deg C",
+            "Ion Exchange Capacity": "2.2-2.5 meq/g (Cl- form)",
+            "Water uptake": "45-55% (at 23 deg C)",
+            "Dimensional Swelling in H2O at 25\u00b0C": "<18% (in-plane)",
+            "Tensile Strength - max.": "100-120 MPa (at 23 deg C, 50% RH)",
+            "Young\u2019s modulus at 23 \u00b0C / 50 % r.h.": "1500-2000 MPa (at 23 deg C, 50% RH)",
+            "Elongation to Break": "30-50% (at 23 deg C, 50% RH)"
+        }
+    },
+    {
+        "name": "GI-N417 PTFE Fabric Reinforced Perfluorosulfonic Acid (PFSA) Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/gi-n417-ptfe-fabric-reinforced-pfsa-membrane-74900000?limit=100",
+        "stock": true,
+        "spec": {
+            "Polymer Composition": "Perfluorosulfonic acid (PFSA), standard grade without endgroup stabilization",
+            "Membrane Type": "Cation or Cation Exchange Membrane",
+            "Mechanical Reinforcement Type": "PTFE Fabric Reinforced (Open Mesh style)",
+            "Membrane Average Thickness": "~260 micrometers (or 0.010 inch)",
+            "Tensile Strength": "~50 MPa (ASTM D882)",
+            "Young's Modulus": "Undisclosed",
+            "Elongation At Break": "~120% (ASTM D882)",
+            "Specific Density": "1.35 (Internal Method)",
+            "Conductivity": "~0.083 S/cm (GB/T 20042.3-2009)",
+            "Hydrogen Crossover": "Undisclosed",
+            "Hydrogen Crossover Current": "Undisclosed",
+            "Acid Capacity": "0.95 to 1.05 meq/gram (GB/T 20042.3-2009)",
+            "Water Content": "5% +/- 3% (ASTM D570)",
+            "Water Uptake": "50% +/- 5% (ASTM D570)",
+            "Thickness Change": "~10% (from 50% RH at 23 deg C to water penetration at 100 deg C)",
+            "Linear Expansion": "~5% (from 50% RH at 23 deg C to water penetration at 100 deg C)",
+            "Equivalent Weight": "950  to 1050 EW",
+            "Presence of Sacrificial Gas Release Fibers ": "None",
+            "Monolayer or Bilayer Structure": "Monolayer membrane"
+        }
+    },
+    {
+        "name": "Sustainion\u00ae E28-50 Grade T",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/sustainion-e28-50-t-75000000?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Sustainion\u00ae B22-50 Grade T",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/sustainion-b22-50-t-75000001?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Sustainion\u00ae E30-50 Grade T",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/sustainion-e30-50-t-75000002?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Sustainion\u00ae Anion Exchange Membrane Variety Kit",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/sustainion-aem-variety-kit-75000003?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "PTFE Porous Mesh - 30.5 x 30.5cm",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/ptfe-porous-mesh?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "Polypropylene (PP) Porous Mesh - 30.5 x 30.5cm",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/polypropylene-porous-mesh?limit=100",
+        "stock": true,
+        "spec": {}
+    },
+    {
+        "name": "iPEM - High Temperature Polymer Electrolyte Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/ipem-membrane-96000100?limit=100",
+        "stock": false,
+        "spec": {
+            "Membrane": "Polycation-PBI blend (polysulfone with quaternary benzyl pyridinium functional group and polybenzimidazole in the form of a blend membrane)",
+            "Thickness": "60 \u00b5m (microns) +/- 15 \u00b5m (microns) ",
+            "Appearance / Color": "Cloudy / Orange",
+            "Conductivity": ">100 mS/cm at 150 deg C after its activation with phosphoric acid"
+        }
+    },
+    {
+        "name": "Celtec - P Membrane for High Temperature PEM Fuel Cells",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/celtec-p-membrane-82700100?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "400 microns (+/- 40 microns)",
+            "E-module": ">3 N/mm2",
+            "Compression": "20 < p < 25 (%)",
+            "Acid Concentration": "55 wt% (+/-4 wt%)",
+            "Acid Content by Volume": "810 mg/cm3 (+/-50 mg/cm3)",
+            "Acid Content by Area": "34 mg/cm2 (+/-3 mg/cm2)",
+            "PBI Content": "77 mg/cm3 (+/-12 mg/cm3)",
+            "I.V. Value": ">4.5 (dL/g)",
+            "Is the Membrane Acid Doped?": "Yes"
+        }
+    },
+    {
+        "name": "Tion5-W PFSA Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/tion5w-pfsa-membrane?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "~127 micrometers (or ~0.005\")",
+            "Basic Weight": "246 g/m2",
+            "Specific Gravity": "1.98 (based on GB/T 20042.3-2022 test method)",
+            "Conductivity": ">0.10 S/cm min. (based on GB/T 20042.3-2022 test method)",
+            "Available Acid Capacity": "1.0 +/- 0.05 meq/g (based on GB/T 20042.3-2022 test method)",
+            "Total Acid Capacity": "0.95 to 1.01  meq/g (based on GB/T 20042.3-2022 test method)",
+            "Non-Std Modulus": ">400 MPa (based on GB/T 20042.3-2022 test method)",
+            "Tensile Strength - max.": ">28 MPa (based on GB/T 20042.3-2022 test method)",
+            "Elongation to Break": ">120% (based on GB/T 20042.3-2022 test method)"
+        }
+    },
+    {
+        "name": "PFSA D170-U Proton Exchange Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/pfsa-d170u-proton-exchange-membrane-87010010?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "170 micrometers +/- 10 micrometers",
+            "Basic Weight": "350 +/- 10 grams/m2",
+            "Conductivity": "\u2265 0.1 S/cm (based on GB/T 20042.3-2009)",
+            "Ion Exchange Capacity": "\u2265 0.90 mmol/g (based on GB/T 20042.3-2009)",
+            "Swelling": "\u2264 20% (based on ASTM D570)",
+            "Tensile Modulus": "\u2265 180 MPa (based on ASTM D882)",
+            "Tensile Strength - max.": "\u2265 25 MPa (based on ASTM D882)",
+            "Elongation to Break": "\u2265300% (based on ASTM D882)"
+        }
+    },
+    {
+        "name": "PFSA D125-U Proton Exchange Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/pfsa-d125u-proton-exchange-membrane-87010015?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "125 micrometers +/- 10 micrometers",
+            "Conductivity": ">150 mS/cm",
+            "Swelling": "18% (width/length) to 24% (thickness)",
+            "Tensile Modulus": ">220 MPa",
+            "Tensile Strength - max.": ">30 MPa",
+            "Elongation to Break": ">240%"
+        }
+    },
+    {
+        "name": "PFSA D50-U Proton Exchange Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/pfsa-d50u-proton-exchange-membrane-87010020?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "50 micrometers +/- 2 micrometers",
+            "Basic Weight": "110 grams/m2 (+/- 10 grams/m2)",
+            "Conductivity": "> 120 mS/cm for the proton conductivity",
+            "Ion Exchange Capacity": "1.02 meq/gram",
+            "Swelling": "~9% (TD/MD)",
+            "Tensile Modulus": "> 200 MPa",
+            "Tensile Strength - max.": ">35 MPa",
+            "Elongation to Break": ">340% (TD/MD)"
+        }
+    },
+    {
+        "name": "PFSA D50-R ePTFE Reinforced Proton Exchange Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/pfsa-d50r-eptfe-reinforced-proton-exchange-membrane-87010026?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "50 micrometers (+/- 2 micrometers)",
+            "Basic Weight": "110 grams/m2 (+/- 10 grams/m2)",
+            "Conductivity": "> 100 mS/cm for the proton conductivity",
+            "Ion Exchange Capacity": ">0.9 mmol/g",
+            "Swelling": "\u2264 7% / 7% (MD/TD) (based on NB/T 42080-2016)",
+            "Tensile Modulus": "\u2265 300 MPa / 300 MPa (MD/TD) (based on NB/T 42080-2016)",
+            "Tensile Strength - max.": "\u2265 20 MPa / 20 MPa (MD/TD) (based on NB/T 42080-2016)",
+            "Elongation to Break": "\u2265 200% / 200% (MD/TD) (based on NB/T 42080-2016)",
+            "Puncture Strength": "\u2265 400 gf (based on NB/T 42080-2016)"
+        }
+    },
+    {
+        "name": "PFSA D15-R ePTFE Reinforced Proton Exchange Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/pfsa-d15r-eptfe-reinforced-proton-exchange-membrane-87010032?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "15 micrometers (+/- 1 micrometers)",
+            "Basic Weight": "TBD",
+            "Conductivity": "\u2265 0.03 S/cm (or \u2265 30 mS/cm)",
+            "Ion Exchange Capacity": "\u2265 1.00 mmol/g",
+            "Swelling": "\u2264 7.5% / 7.5% (MD/TD) ",
+            "Modulus": "Elastic Modulus \u2265 250 MPa / 250 MPa (MD/TD)",
+            "Tensile Strength - max.": "\u2265 25 / 25 MPa (MD/TD) ",
+            "Elongation to Break": "250% for MD and 260% for TD"
+        }
+    },
+    {
+        "name": "PFSA S30-R ePTFE Reinforced Proton Exchange Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/pfsa-s30-r-eptfe-reinforced-proton-exchange-membrane-88010001?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "30 micrometers (+/- 2 micrometers)",
+            "Conductivity": "> 0.035 S/cm (or \u2265 35 mS/cm) (at 80 deg, 50% RH)",
+            "Tensile Strength - max.": "> 40 / 40 MPa (MD/TD) (ASTM D882, 25 deg C, 50% RH)",
+            "Elongation to Break": "> 150% / 150% (MD/TD) (ASTM D882, 25 deg C, 50% RH)"
+        }
+    },
+    {
+        "name": "PFSA TE80-R ePTFE Reinforced Proton Exchange Membrane",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/pfsa-te80-r-eptfe-reinforced-proton-exchange-membrane-76010015?limit=100",
+        "stock": true,
+        "spec": {
+            "Thickness": "80 micrometers (+/- 5 micrometers)",
+            "Conductivity": "> 0.060 S/cm ",
+            "Tensile Strength - max.": "> 35 / 35 MPa (MD/TD)",
+            "Elongation to Break": "> 100% / 100% (MD/TD)"
+        }
+    },
+    {
+        "name": "PBI TM2 Membrane For Intermediate Temperature PEMFCs",
+        "link": "https://www.fuelcellstore.com/fuel-cell-components/membranes/pbi-tm2-membrane?limit=100",
+        "stock": true,
+        "spec": {
+            "Membrane": "m-PBI with phosphoric acid doping",
+            "Thickness": "0.003-0.004\" (or 75 to 100 micrometers)",
+            "Appearance / Color": "Cloudy / Orange",
+            "Conductivity": ">100 mS/cm at 150 deg C after its activation with phosphoric acid"
+        }
+    }
+]
