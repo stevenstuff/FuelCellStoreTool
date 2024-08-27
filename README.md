@@ -1,5 +1,5 @@
 # FuelCellStoreTool
- Tool to scrape, filter, and search products by specification
+ Tool to scrape, filter, and search products from fuelcellstore.com by specification
 
  Run search.py to update the item list in data/raw_dump.json
 
