@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "csLMRcBfXjRojF3Bt3SD6WHYox/EqssEuC3DhELeq/BCtO4Bs+9tp8FmvkmwM2VAc5NZldAVoniB8wbOOQH+8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\steven\\source\\repos\\FuelCellStoreTool\\FuelCellStoreTool\\FuelCellStoreTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steven\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelCellStoreTool", "FuelCellStoreTool\FuelCellStoreTool.csproj", "{CA9DAF6B-953D-4C52-902F-C8D6F18AEE3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9DAF6B-953D-4C52-902F-C8D6F18AEE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9DAF6B-953D-4C52-902F-C8D6F18AEE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9DAF6B-953D-4C52-902F-C8D6F18AEE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9DAF6B-953D-4C52-902F-C8D6F18AEE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E7F3AE1-E6E1-4667-9384-E2B2C7951780}
+	EndGlobalSection
+EndGlobal
